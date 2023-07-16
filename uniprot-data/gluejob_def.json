@@ -1,5 +1,5 @@
 {
-  "name" : "abcam-data",
+  "name" : "uniprot-data",
   "description" : "",
   "role" : "arn:aws:iam::960161294915:role/glue-admin-role",
   "executionProperty" : {
@@ -34,6 +34,6 @@
     "provider" : "GITHUB",
     "repository" : "bigdata",
     "branch" : "main",
-    "folder" : "abcam-data"
+    "folder" : "uniprot-data"
   }
 }
